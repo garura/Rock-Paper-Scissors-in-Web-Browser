@@ -33,7 +33,7 @@ function servePage(request, response) {
   // If the user does not enter a file name,
   // we serve the page home.html 
   if (filename === './') {
-    filename = './html/home.html';
+    filename = 'home.html';
   }
   // Get the extension of the requested resource so we can determine the type
  
