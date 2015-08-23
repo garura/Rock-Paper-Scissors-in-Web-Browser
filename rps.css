@@ -1,0 +1,21 @@
+.body {
+    background-color:#FFFFCC;
+    text-align:center;
+}
+
+.row {
+    font-family: Impact, Charcoal, sans-serif;
+    color: darkred;
+}
+
+.pics {
+    background-color: white;
+}
+
+#results {
+    color:darkred;
+}
+
+#details {
+    color:#000099;
+}
